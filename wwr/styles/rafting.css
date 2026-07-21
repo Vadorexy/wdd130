@@ -6,7 +6,6 @@
 
     --heading-font: "Bebas Neue", sans-serif;
     --body-font: "Montserrat", sans-serif;
-
 }
 
 * {
@@ -487,7 +486,6 @@ iframe {
 .home-heading {
     padding-block: 8rem;
     background-color: transparent;
-    font-size: 4rem;
     color: var(--accent2-color);
     opacity: 1;
 }
