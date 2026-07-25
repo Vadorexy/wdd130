@@ -102,11 +102,6 @@ section {
 
 .hero article {
     position: absolute;
-    z-index: 2;
-}
-
-.hero article {
-    position: absolute;
     top: 20%;
     left: 10%;
     max-width: 80%;
@@ -114,6 +109,7 @@ section {
     padding: 1rem;
     background-color: var(--accent2);
     color: var(--secondary);
+    z-index: 2;
 }
 
 .hero article img {
