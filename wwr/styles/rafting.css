@@ -89,10 +89,6 @@ section {
 .home-hero {
     position: relative;
     width: 100%;
-}
-
-.hero {
-    position: relative;
     overflow: hidden;
 }
 
@@ -127,7 +123,6 @@ section {
 }
 
 .home-hero {
-    position: relative;
     width: 100vw;
     left: 50%;
     right: 50%;
