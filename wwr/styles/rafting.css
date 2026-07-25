@@ -388,7 +388,7 @@ footer {
         gap: 2rem;
     }
 
-    .hero .article {
+    .hero article {
         position: relative;
         top: auto;
         left: auto;
@@ -397,7 +397,7 @@ footer {
         margin: 1rem;
     }
 
-    .hero .article img {
+    .hero article img {
         float: none;
         width: 100%;
         margin: 0.5rem 0;
