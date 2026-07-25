@@ -84,11 +84,9 @@ section {
     text-decoration: none;
 }
 
-/* Hero & Home */
-.hero,
-.home-hero {
+/* Hero */
+.hero {
     position: relative;
-    width: 100%;
     overflow: hidden;
 }
 
@@ -115,19 +113,26 @@ section {
     margin-bottom: 0.5rem;
 }
 
-.hero img,
-.home-hero img {
+.hero img {
     display: block;
     width: 100%;
     height: auto;
 }
 
+/* Home hero */
 .home-hero {
+    position: relative;
     width: 100vw;
     left: 50%;
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+}
+
+.home-hero img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .about-heading {
