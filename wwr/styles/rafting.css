@@ -1,8 +1,8 @@
 :root {
     --primary: #1e3a5f;
-    --secondary: #2f5d50;
+    --secondary: #1A1818;
     --accent1: #3dbeff;
-    --accent2: #ff8c42;
+    --accent2: #FF9A5C;
     --heading-font: "Bebas Neue", sans-serif;
     --body-font: "Montserrat", sans-serif;
     --shadow: 0 2px 8px rgba(30, 58, 95, 0.08);
@@ -97,12 +97,12 @@ section {
 }
 
 .hero h1,
-.hero .article {
+.hero article {
     position: absolute;
     z-index: 2;
 }
 
-.hero .article {
+.hero article {
     position: absolute;
     top: 20%;
     left: 10%;
@@ -113,7 +113,7 @@ section {
     color: var(--secondary);
 }
 
-.hero .article img {
+.hero article img {
     float: right;
     width: 125px;
     margin-left: 1rem;
